@@ -1,6 +1,6 @@
 package:
   name: argocd
-  version: 2.6.4
+  version: 2.14.8
   epoch: 0
   description: Declarative continuous deployment for Kubernetes. 
   target-architecture:
